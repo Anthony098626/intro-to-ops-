@@ -17,3 +17,7 @@
 
     4) What is Port Forwarding?
         - Port forwarding is used to allow external devices to access services or applications running on a specific port on a local network device, such as a computer or a router.
+
+Sources/ https://www.nakivo.com/blog/virtualbox-network-setting-guide/
+
+chatgbt.com
