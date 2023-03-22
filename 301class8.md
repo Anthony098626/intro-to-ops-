@@ -14,5 +14,15 @@
 
 * What is the role of the NAS in the AAA implementation using an ACS server? Use a diagram.
 
-User  +---->  Nas  +---->  ACS
-                          Server
+            User  +---->  Nas  +---->  ACS
+                                      Server
+
+* What are the benefits of using RADIUS for authentication and authorization?
+
+    - Some benefits using RADIUS for authentication and authorization can improve network security, simplify administration, and provide scalability and flexibility for organizations of all sizes.
+
+* What is RADIUS and what does it stand for?
+
+    - RADIUS is a technology that allows users to authenticate themselves to a network device, such as a router or a wireless access point, using a username and password or other authentication credentials. RADIUS stands for "Remote Authentication Dial-In User Service".
+* Research: What encryption algorithms does RADIUS use?
+    - 
