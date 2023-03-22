@@ -24,5 +24,15 @@
 * What is RADIUS and what does it stand for?
 
     - RADIUS is a technology that allows users to authenticate themselves to a network device, such as a router or a wireless access point, using a username and password or other authentication credentials. RADIUS stands for "Remote Authentication Dial-In User Service".
+
 * Research: What encryption algorithms does RADIUS use?
-    - 
+
+    - Message Digest 5 (MD5)
+    - Secure Hash Algorithm 1 (SHA-1)
+    - Transport Layer Security (TLS)
+    - Advanced Encryption Standard (AES)
+
+    sources: 
+    * https://www.geeksforgeeks.org/computer-network-aaa-authentication-authorization-and-accounting/
+    * https://wiki.freeradius.org/guide/Concepts
+    * chatgbt.com
