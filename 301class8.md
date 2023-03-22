@@ -14,8 +14,5 @@
 
 * What is the role of the NAS in the AAA implementation using an ACS server? Use a diagram.
 
-  +--------+    +-------------+    +--------+
-  |        |    |             |    |        |
-  |  User  +---->    NAS      +---->  ACS   |
-  |        |    |             |    | Server |
-  +--------+    +-------------+    +--------+
+User  +---->  Nas  +---->  ACS
+                          Server
