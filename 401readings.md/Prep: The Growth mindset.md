@@ -1,0 +1,1 @@
+This topic matters because I am a bigener to this industry so everything pretty much feels like everything that I am doing deliberate practice.
