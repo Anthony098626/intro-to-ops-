@@ -6,4 +6,6 @@
 3) What are the three stages of the risk management lifecycle? What is each stage’s main goal or objective?
     - the three stages of the risk management lifecycle are risk assessment with its main goal to be Categorize, classify and evaluate assets, as well as identify threats and vulnerabilities. the scond would be risk analysis with its main objective to be Both qualitative and quantitative.  And the third one would be risk mitigation/response with its main objective Includes reducing or avoiding risk, transferring risk, and accepting or rejecting risk
 ## sources
+1) https://resources.infosecinstitute.com/certification/security-risk-management/
+2) https://chat.openai.com/ 
     
