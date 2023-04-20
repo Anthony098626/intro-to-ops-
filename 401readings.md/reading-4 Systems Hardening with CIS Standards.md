@@ -6,3 +6,4 @@
 3) How would you convince your manager that applying CIS Benchmarks could fast-track your organization’s compliance?
     - By making them aware of the benfits of applying CIS benchmarks.  
 ### source: https://www.ibm.com/topics/cis-benchmarks 
+###         https://chat.openai.com/ 
