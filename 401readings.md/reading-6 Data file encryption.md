@@ -5,6 +5,5 @@
     - Hashing converts data into a unique code. Comparing codes checks if data is unchanged.
 3) How is hashing and encryption different?
     - hashing and encryption are diffrent because hashing is used for veryfying data integrity and ensuring data hasnt been tampered with.  where as encryption is used for securing data confidentiality, ensuring only authorized parties can access the data.
-### source's: 
-- https://www.jscape.com/blog/implementing-the-cia-triad-when-transferring-files-through-the-internet 
-- https://chat.openai.com/ 
+### source's: https://www.jscape.com/blog implementing-the-cia-triad-when-transferring-files-through-the-internet
+### https://chat.openai.com/
