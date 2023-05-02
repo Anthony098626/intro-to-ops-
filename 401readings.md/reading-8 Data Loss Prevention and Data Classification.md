@@ -4,4 +4,4 @@
 2) How would you explain the three main use cases for DLP to friends or family?
     - DLP solutions are an essential tool for protecting sensitive data, complying with regulations, and preventing insider threats.
 ### source: https://www.digitalguardian.com/blog/what-data-loss-prevention-dlp-definition-data-loss-prevention 
-###         https://chat.openai.com/ 
+###         https://chat.openai.com/
